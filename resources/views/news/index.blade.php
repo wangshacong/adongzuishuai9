@@ -19,17 +19,17 @@
     <!--[if lt IE 9]>
 <script type="text/javascript" src="/skin/js/html5-css3.js"></script>
 <![endif]-->
-    <script type="text/javascript" src="/js/jquery-1.11.0.min.js.下载"></script>
+    <script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script>
     <link href="/css/prettify.css" rel="stylesheet" type="text/css">
-    <script src="/js/prettify.js.下载" type="text/javascript"></script>
-    <script src="/js/common_tpl.js.下载" type="text/javascript"></script>
-    <script type="text/javascript" src="/js/jquery.flexslider-min.js.下载"></script>
-    <script type="text/javascript" src="/js/wow.js.下载"></script>
+    <script src="/js/prettify.js" type="text/javascript"></script>
+    <script src="/js/common_tpl.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/js/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="/js/wow.js"></script>
     <script>
         new WOW().init();
     </script>
-    <script type="text/javascript" src="/js/leonhere.js.下载"></script>
-    <script src="/js/share.js.下载"></script>
+    <script type="text/javascript" src="/js/leonhere.js"></script>
+    <script src="/js/share.js"></script>
     <link rel="stylesheet" href="/css/share_style0_16.css">
 </head>
 
